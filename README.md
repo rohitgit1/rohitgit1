@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning and NLP projects.**
 
-- 📝 I regulary write articles on [The Aviation Geek Club](The Aviation Geek Club, Medium)
+- 📝 I regulary write articles on The Aviation Geek Club, Medium.
 
 - 💬 Ask me about **Data Science, Web based Machine Learning Deployments and Neural Networks**
 
