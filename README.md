@@ -10,11 +10,11 @@
 
 - 📝 I regulary write articles on **The Aviation Geek Club, Medium.**
 
-- 💬 Ask me about **Data Science, Web based Machine Learning Deployments and Neural Networks**
+- 💬 Ask me about **Data Science, Web based Machine Learning Deployments and Neural Networks.**
 
 - 📫 How to reach me **rohitpsit44@gmail.com**
 
-- ⚡ Fun fact **Chai over Coffee**
+- ⚡ Fun fact **I daily feed street dogs.**
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=topgun98&layout=compact&hide=html&theme=radical" alt="topgun98" />
 
