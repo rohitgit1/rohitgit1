@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 <h3 align="center">I am a passionate problem solver.</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rohit%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rohit-singh-b54595111/)](https://www.linkedin.com/in/rohit-singh-b54595111/) [![Twitter Badge](http://img.shields.io/badge/-@Singh98Rohit-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/Singh98Rohit)](https://twitter.com/Singh98Rohit) [![GitHub followers](https://img.shields.io/github/followers/topgun98?label=Follow&style=social)](https://github.com/topgun98/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-rohitpsit44@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rohitpsit44@gmail.com)](mailto:rohitpsit44@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Rohit%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rohit-singh-b54595111/)](https://www.linkedin.com/in/rohit-singh-b54595111/) [![Twitter Badge](http://img.shields.io/badge/-@Singh98Rohit-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/Singh98Rohit)](https://twitter.com/Singh98Rohit) [![GitHub followers](https://img.shields.io/github/followers/topgun98?label=Follow&style=social)](https://github.com/topgun98/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-rohitpsit44@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rohitpsit44@gmail.com)](mailto:rohitpsit44@gmail.com) ![Profile views](https://gpvc.arturio.dev/topgun98)
 ---
 
 - 🔭 I’m currently working on **SAR Imagery analysis with Deep Learning**
