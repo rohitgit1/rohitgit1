@@ -16,9 +16,9 @@
 
 - ⚡ Fun fact **I daily feed street dogs.**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgit1&layout=compact&hide=html&theme=radical" alt="rohitgit1" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgit1&count_private=true&layout=compact&hide=html&theme=radical" alt="rohitgit1" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitgit1&show_icons=true&theme=radical" alt="rohitgit1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitgit1&show_icons=true&theme=blue-green" alt="rohitgit1" />
 
 
 
