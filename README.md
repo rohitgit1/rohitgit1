@@ -10,13 +10,13 @@
 
 - 📝 I regulary write articles on **The Aviation Geek Club, Medium.**
 
-- 💬 Ask me about **Data Structures, Web based Machine Learning Deployments and Neural Networks.**
+- 💬 Ask me about **Data Structures, Machine Learning and Aviation.**
 
 - 📫 How to reach me **rohitpsit44@gmail.com.**
 
 - ⚡ Fun fact **Tea over Coffee.**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgit1&count_private=true&layout=compact&hide=html&theme=radical" alt="rohitgit1" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgit1&count_private=true&layout=compact&hide=html&theme=blue-green" alt="rohitgit1" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitgit1&show_icons=true&theme=blue-green" alt="rohitgit1" />
 
