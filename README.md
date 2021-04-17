@@ -14,9 +14,11 @@
 
 - ⚡ Fun fact **Tea over Coffee.**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgit1&count_private=true&layout=compact&hide=html&theme=flag-india" alt="rohitgit1" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitgit1&show_icons=true&theme=flag-india" alt="rohitgit1" />
-
+<p align="center">
+<a href="https://github.com/rohitgit1">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohitgit1&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohitgit1&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
 
 
