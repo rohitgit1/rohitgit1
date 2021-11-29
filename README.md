@@ -4,11 +4,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rohitgit1) [![Linkedin Badge](https://img.shields.io/badge/-Rohit%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rohit-singh-b54595111/)](https://www.linkedin.com/in/rohit-singh-b54595111/) ![GitHub followers](https://img.shields.io/github/followers/rohitgit1?label=Follow&style=social) [![Gmail Badge](https://img.shields.io/badge/-rohitpsit44@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rohitpsit44@gmail.com)](mailto:rohitpsit44@gmail.com) ![Profile views](https://gpvc.arturio.dev/rohitgit1) 
 ---
 
-- 🔭 I’m currently working on **Java Development, Cloud Computing and Data Structures.**
+- 🔭 I’m currently working on **Data Engineering, Cloud Computing and Data Structures.**
 
-- 👯 I’m looking to collaborate on **ML/AI , Web Development and DSA projects.**
+- 👯 I’m looking to collaborate on **Scalable ML/AI and Full Stack Projects**
 
-- 💬 Ask me about **Data Structures, Machine Learning and Aviation.**
+- 💬 Ask me about **Data Structures, Machine Learning and Data Engineering.**
 
 - ⚡ Fun fact **Tea over Coffee.**
 
