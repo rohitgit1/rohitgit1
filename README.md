@@ -2,6 +2,8 @@
 <h3 align="center">I am a passionate problem solver.</h3>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rohitgit1) [![Linkedin Badge](https://img.shields.io/badge/-Rohit%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rohit-singh-b54595111/)](https://www.linkedin.com/in/rohit-singh-b54595111/) ![GitHub followers](https://img.shields.io/github/followers/rohitgit1?label=Follow&style=social) [![Gmail Badge](https://img.shields.io/badge/-rohitpsit44@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rohitpsit44@gmail.com)](mailto:rohitpsit44@gmail.com) ![Profile views](https://gpvc.arturio.dev/rohitgit1) 
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitgit1&theme=blue-green)](https://github.com/rohitgit1/github-readme-streak-stats)
 ---
 
 - 🔭 I’m currently working on **Data Engineering, Cloud Computing and Data Structures.**
